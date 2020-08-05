@@ -49,7 +49,8 @@ const App = () => {
 				<div className="flex-large">
 					{editing ? (
 						<Fragment>
-							<h2>Edit user</h2>
+							<h2>Barca</h2>
+							<h1> Messi is the only GOAT</h1>
 							<EditUserForm
 								editing={editing}
 								setEditing={setEditing}
