@@ -1,0 +1,44 @@
+{
+  "_args": [
+    [
+      "reactmonitorfiber@1.0.11",
+      "/Users/hamoudebnou 1/Desktop/react-hooks"
+    ]
+  ],
+  "_from": "reactmonitorfiber@1.0.11",
+  "_id": "reactmonitorfiber@1.0.11",
+  "_inBundle": false,
+  "_integrity": "sha512-17ru2xLe/osiMB5Dfk2kBCX/1XMPjJ/YBb8B7eBzKlGhe7pevJ82CQgJwHgl/HsKWFJcbuLtiEibQdKTY4pGTQ==",
+  "_location": "/reactmonitorfiber",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "reactmonitorfiber@1.0.11",
+    "name": "reactmonitorfiber",
+    "escapedName": "reactmonitorfiber",
+    "rawSpec": "1.0.11",
+    "saveSpec": null,
+    "fetchSpec": "1.0.11"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reactmonitorfiber/-/reactmonitorfiber-1.0.11.tgz",
+  "_spec": "1.0.11",
+  "_where": "/Users/hamoudebnou 1/Desktop/react-hooks",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/oslabs-beta/ReactMonitor/issues"
+  },
+  "description": "Visualize React's component tree performance and optimization suggestions",
+  "homepage": "https://github.com/oslabs-beta/ReactMonitor#readme",
+  "license": "ISC",
+  "main": "createTree.js",
+  "name": "reactmonitorfiber",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslabs-beta/ReactMonitor.git"
+  },
+  "version": "1.0.11"
+}
